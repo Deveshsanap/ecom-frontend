@@ -1,0 +1,160 @@
+{
+    "prodcuts":[
+        {
+            "id":1,
+            "name":"my prodcut",
+            "image_url":"https://maja.eigen.co.id/wp-content/uploads/2024/11/dummy-product-10.jpeg",
+            "title":"HP AMD Ryzen 5 Octa Core 8th Gen - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RTX 6GB RTX 3050) 15-fb3012AX Gaming Laptop  (15.6 inch, Black, With MS Office)",
+            "thumbnail":"https://rukminim2.flixcart.com/image/312/312/xif0q/computer/5/o/h/victus-15-gaming-laptop-hp-original-imahc4b4vs5fkrf6.jpeg?q=70",
+            "rating":4.5,
+            "highlights":["AMD Ryzen 5 Octa Core Processor (8th Gen)","16 GB DDR4 RAM","Windows 11 Home Operating System","512 GB SSD","39.62 cm (15.6 inch) Display","1 Year Warranty"],
+            "mrp":86050,
+            "discount":23
+
+        },
+        {
+            "id":2,
+            "name":"my prodcut",
+            "image_url":"https://maja.eigen.co.id/wp-content/uploads/2024/11/dummy-product-10.jpeg",
+            "title":"HP 255 G10 AMD Athlon Dual Core 7120U - (8 GB/256 GB SSD/Windows 11 Home) 255 G10 Thin and Light Laptop  (15.6 inch, Ash Silver, 1.35 kg)",
+            "thumbnail":"https://rukminim2.flixcart.com/image/312/312/xif0q/computer/h/j/x/255-g10-thin-and-light-laptop-hp-original-imahbcnytdxhgmgu.jpeg?q=70",
+            "rating":4.5,
+            "highlights":["AMD Ryzen 5 Octa Core Processor (8th Gen)","16 GB DDR4 RAM","Windows 11 Home Operating System","512 GB SSD","39.62 cm (15.6 inch) Display","1 Year Warranty"],
+            "mrp":86050,
+            "discount":23
+        },
+        {
+            "id":3,
+            "name":"my prodcut",
+            "image_url":"https://maja.eigen.co.id/wp-content/uploads/2024/11/dummy-product-10.jpeg",
+            "title":"HP 15 G10 (2025) AMD Athlon Dual Core 7120U - (8 GB/256 GB SSD/Windows 11 Home) 15 G10 Thin and Light Laptop  (15.6 inch, Turbo Silver, 1.5 kg, With MS Office)",
+            "thumbnail":"https://rukminim2.flixcart.com/image/312/312/xif0q/computer/c/3/3/15-g10-thin-and-light-laptop-hp-original-imah9z2bfz8x4ysf.jpeg?q=70",
+            "rating":4.5,
+            "highlights":["AMD Ryzen 5 Octa Core Processor (8th Gen)","16 GB DDR4 RAM","Windows 11 Home Operating System","512 GB SSD","39.62 cm (15.6 inch) Display","1 Year Warranty"],
+            "mrp":86050,
+            "discount":23
+        },
+        {
+            "id":4,
+            "name":"my prodcut",
+            "image_url":"https://maja.eigen.co.id/wp-content/uploads/2024/11/dummy-product-10.jpeg",
+            "title":"HP Intel Celeron Dual Core N4500 - (8 GB/512 GB SSD/Windows 11 Home) 14s-dq3149TU / 14s-dq3141TU Thin and Light Laptop  (14 Inch, Jet Black, 1.46 Kg, With MS Office)",
+            "thumbnail":"https://rukminim2.flixcart.com/image/312/312/xif0q/computer/3/s/2/15r-g9-thin-and-light-laptop-hp-original-imah8zwjtgxdtbxw.jpeg?q=70",
+            "rating":4.5,
+            "highlights":["AMD Ryzen 5 Octa Core Processor (8th Gen)","16 GB DDR4 RAM","Windows 11 Home Operating System","512 GB SSD","39.62 cm (15.6 inch) Display","1 Year Warranty"],
+            "mrp":86050,
+            "discount":23
+        },
+        {
+            "id":5,
+            "name":"my prodcut",
+            "image_url":"https://maja.eigen.co.id/wp-content/uploads/2024/11/dummy-product-10.jpeg",
+            "title":"HP MSO 2024 Intel Core i3 13th Gen 1315U - (16 GB/512 GB SSD/Windows 11 Home) 15-fd0574TU / 15 - fd0668TU Thin and Light Laptop  (15.6 Inch, Natural Silver, 1.59 Kg, With MS Office)",
+            "thumbnail":"https://rukminim2.flixcart.com/image/312/312/xif0q/computer/i/b/g/-original-imahgfdygsnfncux.jpeg?q=70",
+            "rating":4.5,
+            "highlights":["AMD Ryzen 5 Octa Core Processor (8th Gen)","16 GB DDR4 RAM","Windows 11 Home Operating System","512 GB SSD","39.62 cm (15.6 inch) Display","1 Year Warranty"],
+            "mrp":86050,
+            "discount":23
+            
+        }
+        
+    ],
+
+     "categories":[
+        {
+        "id":1,
+        "name":"Laptop & PC",
+        "thumbnail":"",
+         "sub-categories":[
+            {
+                "id":1,
+                "name":"Mobiles",
+                "thumbnail":""
+            },
+            {
+                "id":1,
+                "name":"Tablets",
+                "thumbnail":""
+            },
+            {
+                "id":1,
+                "name":"Laptop & PC",
+                "thumbnail":""
+            }
+        ]
+    },
+        {
+        "id":1,
+        "name":"Electronics",
+        "thumbnail":"",
+         "sub-categories":[
+            {
+                "id":1,
+                "name":"Mobiles",
+                "thumbnail":""
+            },
+            {
+                "id":1,
+                "name":"Tablets",
+                "thumbnail":""
+            },
+            {
+                "id":1,
+                "name":"Laptop & PC",
+                "thumbnail":""
+            }
+        ]
+    },
+        {
+        "id":1,
+        "name":"Electronics",
+        "thumbnail":""
+    },
+        {
+        "id":1,
+        "name":"Electronics",
+        "thumbnail":""
+    },
+        {
+        "id":1,
+        "name":"Electronics",
+        "thumbnail":""
+    },
+        {
+        "id":1,
+        "name":"Electronics",
+        "thumbnail":""
+    },
+        {
+        "id":1,
+        "name":"Electronics",
+        "thumbnail":""
+    },
+        {
+        "id":1,
+        "name":"Electronics",
+        "thumbnail":""
+    },
+        {
+        "id":1,
+        "name":"Electronics",
+        "thumbnail":""
+    },
+        {
+        "id":1,
+        "name":"Electronics",
+        "thumbnail":""
+    },
+        {
+        "id":1,
+        "name":"Electronics",
+        "thumbnail":""
+    },
+        {
+        "id":1,
+        "name":"Electronics",
+        "thumbnail":""
+    }
+       
+    ]
+}
